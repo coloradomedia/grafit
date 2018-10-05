@@ -1,0 +1,14 @@
+Options FollowSymLinks
+
+RewriteEngine on
+RewriteRule salon-meblowy index.html
+RewriteRule o-nas about.html
+RewriteRule montaz assembly.html
+RewriteRule kontakt contact.html
+RewriteRule raty installment.html
+RewriteRule kuchnia-marzen kitchen.html
+RewriteRule lokalizacja location.html
+RewriteRule platnosc-w-salonie money.html
+RewriteRule oferta offer.html
+RewriteRule meble-na-wymiar project.html
+RewriteRule transport transport.html
